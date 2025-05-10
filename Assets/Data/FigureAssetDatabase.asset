@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47e3a3d6159880b40b45ba7ea8390ef3, type: 3}
+  m_Name: FigureAssetDatabase
+  m_EditorClassIdentifier: 
+  shapePrefabs:
+  - shape: 0
+    sprite: {fileID: -7105913188517789750, guid: cf448ce52883adf4b9c653728afa7b30, type: 3}
+  - shape: 1
+    sprite: {fileID: 7086606104257924489, guid: cf448ce52883adf4b9c653728afa7b30, type: 3}
+  - shape: 2
+    sprite: {fileID: -8166966530815011495, guid: cf448ce52883adf4b9c653728afa7b30, type: 3}
+  animalSprites:
+  - animal: 0
+    sprite: {fileID: -10524483601426386, guid: 0c6c4a2aca2a170409d736fb5c633d67, type: 3}
+  - animal: 1
+    sprite: {fileID: 5758861361426822821, guid: 0c6c4a2aca2a170409d736fb5c633d67, type: 3}
+  - animal: 2
+    sprite: {fileID: -1319315252296537693, guid: 0c6c4a2aca2a170409d736fb5c633d67, type: 3}
+  frameColors:
+  - frameColor: 0
+    displayColor: {r: 0.8584906, g: 0.20652366, b: 0.20652366, a: 1}
+  - frameColor: 1
+    displayColor: {r: 0.33727965, g: 0.85882354, b: 0.20784311, a: 1}
+  - frameColor: 2
+    displayColor: {r: 0.20784311, g: 0.38917008, b: 0.85882354, a: 1}
